@@ -8,6 +8,7 @@ Atualmente estudando:
 - Wireshark
 - Linux
 - Pentest
+- Python
 
 ## 🧰 Ferramentas
 - Kali Linux
