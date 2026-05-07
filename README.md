@@ -22,4 +22,4 @@ Atualmente estudando:
 - Laboratórios de pentest
 
 ## 🚀 Objetivo
-Evoluir na área de segurança ofensiva e análise de redes
+Evoluir na área de segurança ofensiva, defensiva e análise de redes e me tornar um hacker ético de cartola branca profissional 
