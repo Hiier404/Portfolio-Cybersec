@@ -6,12 +6,12 @@ Atualmente estudando:
 - HTML
 - CSS
 - Javascript
+- Python
 - Redes
 - Nmap
 - Wireshark
 - Linux
 - Pentest
-- Python
 
 ## 🧰 Ferramentas
 - Kali Linux
