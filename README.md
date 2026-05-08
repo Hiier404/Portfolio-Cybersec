@@ -3,6 +3,9 @@
 ## 🛡️ Estudante de Cybersecurity e Hacking Ético
 
 Atualmente estudando:
+- HTML
+- CSS
+- Javascript
 - Redes
 - Nmap
 - Wireshark
@@ -15,6 +18,7 @@ Atualmente estudando:
 - Nmap
 - Wireshark
 - Metasploit
+- VS Code
 
 ## 📚 Projetos
 - Análise de rede local
@@ -22,4 +26,4 @@ Atualmente estudando:
 - Laboratórios de pentest
 
 ## 🚀 Objetivo
-Evoluir na área de segurança ofensiva, defensiva e análise de redes e me tornar um hacker ético de cartola branca profissional 
+Me tornar FullStack e evoluir na área de segurança ofensiva, defensiva e análise de redes e me tornar um hacker ético profissional
