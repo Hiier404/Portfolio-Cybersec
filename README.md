@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thiago
 
-## 🛡️ Estudante de Cybersecurity e Hacking Ético
+## 🛡️ Estudante de Front-End, Back-End, Cybersecurity e Hacking Ético
 
 Atualmente estudando:
 - HTML
