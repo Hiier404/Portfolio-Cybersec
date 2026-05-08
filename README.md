@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thiago Ribeiro
 
-## 🛡️ Estudante de Front-End, Back-End, Cybersecurity e Hacking Ético
+## 🛡️ Estudante FullStack, Cybersecurity e Hacking Ético
 
 Atualmente estudando:
 - HTML
