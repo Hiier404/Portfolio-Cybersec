@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Thiago
+# 👋 Olá, eu sou Thiago Ribeiro
 
 ## 🛡️ Estudante de Front-End, Back-End, Cybersecurity e Hacking Ético
 
